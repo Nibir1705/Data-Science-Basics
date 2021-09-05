@@ -1,4 +1,4 @@
-# Data-Science-Basics
+# Data-Science-Course
 This Repository is all about learning the basics of Data Science using Python.
 
 In this repository I wanted to upload and keep track of the assignments I did while learning the concepts of Data Science using Python.
